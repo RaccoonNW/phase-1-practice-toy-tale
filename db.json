@@ -4,13 +4,13 @@
       "id": 1,
       "name": "Woody",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 5
+      "likes": 9
     },
     {
       "id": 2,
       "name": "Buzz Lightyear",
       "image": "http://www.pngmart.com/files/6/Buzz-Lightyear-PNG-Transparent-Picture.png",
-      "likes": 8
+      "likes": 12
     },
     {
       "id": 3,
@@ -47,6 +47,24 @@
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
       "likes": 1
+    },
+    {
+      "name": "Soap The Cat",
+      "image": "file:///Users/gabrielshalitmontagne/Desktop/IMG_2728.JPG",
+      "likes": 23,
+      "id": 9
+    },
+    {
+      "name": "Soap The Cat",
+      "image": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHCBYWFRgVFRUZGRgaGhkaGhwaGhoaGBkaHBgaGhwcGhocIS4lHCErIRocJjgmKy8xNjU1HCQ7QDs2Py40NTEBDAwMEA8QGhISGjQhISE0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NP/AABEIAKgBLAMBIgACEQEDEQH/xAAcAAABBQEBAQAAAAAAAAAAAAAFAQIDBAYABwj/xAA+EAACAQIEBAMGAwcDAwUAAAABAhEAIQMEEjEFQVFhBiJxEzKBkaHwQrHBBxQjUmLR4XKC8RWSwjNTVGOi/8QAGAEBAQEBAQAAAAAAAAAAAAAAAAECAwT/xAAfEQEBAAICAgMBAAAAAAAAAAAAAQIRITEDEkFRYRP/2gAMAwEAAhEDEQA/APQ8PhqryqLO8KDrtejL1yVjU6XdZtODgLtelx+GSthetEyCm6RU9YvtQXB4eNEEUNz3CCCNNawKK58IGlwlizOysFm8toioUY1q89wvW08qCZ3JkNCivLn4rOY9OHkl4obmgDhuP6W/I1kuDYEkk3g/rFbhsqVHmG9qx2TXRiOhsQSN+9a8Ms3KnksvMGkysd55co6mxoNxThxJnDW4uANI+M7A9J/Sj+XMiJsIFv8AP5U7FRGBVfNG66iB3LsB/n8q9GnDYZwHj5EYWYN9lckHl7rEEztvvtWqVhWXz/BwRIOmb6QoiRyUnb4D1qHhPiD2f8LHDAKDpYiGgG+5iBIm55nrHPPx75jphnpsQlOCVWTNIQDqEWvyv67ehqLM8YwcMS+Iojv1MVw9bvp09oIKlOCVmMfxxgAHQGcjpYUEzn7QnKnQgXzWJ3jpXTHx5X4Yvkxny9ECVxSsCf2gPpP8NSQOp6U1/HuIoBOGvIxe46z8PqK3/PL6T+uLflKFca4quChabgGANz6Dnf6xWVw/HGI5VDhhWPvEH",
+      "likes": 0,
+      "id": 10
+    },
+    {
+      "name": "Kitty Cat",
+      "image": "file:///Users/gabrielshalitmontagne/Desktop/IMG_2728.JPG",
+      "likes": 0,
+      "id": 11
     }
   ]
 }
